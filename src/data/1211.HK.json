@@ -1,0 +1,25 @@
+{
+    "results": [
+        {
+            "id": 546811,
+            "url": "https://vickiibackend.herokuapp.com/social-media/spotify-podcasts/ticker-related/5277/",
+            "uuid": "bce0c28c-1a70-4566-a642-74f5b7cfa254",
+            "title": "BYD wächst stark in Hybrid-Segment",
+            "image_url": "https://storage.googleapis.com/vickii_app_assets/podcaster_images/AllesAufAktien.jpg",
+            "podcaster": "Alles auf Aktien",
+            "eod_ticker": "1211.HK",
+            "podcast_id": 1536,
+            "description": "BYD verzeichnet ein Wachstum von 54% bei Plug-in-Hybriden, während der reine E-Auto Absatz langsamer wächst.",
+            "ticker_isin": "CNE100000296",
+            "ticker_name": "BYD Company Limited",
+            "ticker_type": "Common Stock",
+            "content_type": "spotify_podcast",
+            "publish_date": "2024-06-03T08:47:28Z",
+            "ticker_logo_url": null,
+            "timestamped_url": "https://open.spotify.com/episode/1ByrXilUtVS4ctfwIt7sdx?si=a4e2274446b94369&t=256"
+        }
+    ],
+    "next": null,
+    "previous": null,
+    "count": 1
+}

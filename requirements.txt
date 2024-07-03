@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+openai
+langchain
+langchain-openai
+python-dotenv==1.0.1
