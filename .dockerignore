@@ -23,8 +23,6 @@ logs/
 # Virtual environment
 venv/
 *.venv
-env/
-*.env
 
 # IDE specific files
 .idea/

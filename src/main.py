@@ -20,7 +20,7 @@ class NewsRequest(BaseModel):
     n_news: int
     portfolio: List[PortfolioEntry]
 
-@app.post("/news/")
+@app.post("/news")
 async def get_most_interesting_news_for_a_portfolio(news_request: NewsRequest):
     relevant_news = []
     ranked_stocks = rank_portfolio(news_request.portfolio)
