@@ -19,4 +19,6 @@ Possibly let GPT also assign an "interest_score" to each news to maybe be able t
 
 **Link to initial planning graphic: https://www.tldraw.com/r/icxXonJcM0mBvRtescQSU?v=224,-451,3606,1914&p=page**
 
+![Initial planning graphic](planning_image.png)
+
 **Link to docs: https://vickiisummaries-gotfjbelgq-ew.a.run.app/docs#/default/get_most_interesting_news_for_stock_news_rank_post**
