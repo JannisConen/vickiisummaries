@@ -18,3 +18,5 @@ Iterate over most important stocks for the user given the portfolio and select t
 Possibly let GPT also assign an "interest_score" to each news to maybe be able to skip news to high rated stocks in the portfolio if they are very uninteresting. If there was a super high rated news that could have the same impact as a super high relative/absolute change and then be moved up in the stock-importance ranking to also be included, even if it is a small position and did not result in a big stock price movement.
 
 **Link to initial planning graphic: https://www.tldraw.com/r/icxXonJcM0mBvRtescQSU?v=224,-451,3606,1914&p=page**
+
+**Link to docs: https://vickiisummaries-gotfjbelgq-ew.a.run.app/docs#/default/get_most_interesting_news_for_stock_news_rank_post**
