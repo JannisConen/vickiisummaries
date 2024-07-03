@@ -43,6 +43,7 @@ def rank_portfolio(portfolio: List[PortfolioEntry]) -> List[PortfolioEntry]:
     # Combine all lists into the final sorted list
     return high_impact_entries + significant_relative_change_entries + remaining_entries
 
+# just for testing
 if __name__ == "__main__":
     path = os.path.join(os.getcwd(), "src", "data", "portfolio.json")
     
