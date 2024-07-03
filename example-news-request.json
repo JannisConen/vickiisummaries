@@ -1,0 +1,71 @@
+{
+    "start_date": "2024-05-10",
+    "end_date": "2024-07-01",
+    "n_news": 4,
+    "portfolio": [
+        {
+            "stock": "Alphabet Inc Class A",
+            "eod_ticker": "GOOG.US",
+            "amount": 2279.3,
+            "change": 6,
+            "absolute_value": 2386.88,
+            "absolute_change": 107.58
+        },
+        {
+            "stock": "BYD Company Limited",
+            "eod_ticker": "1211.HK",
+            "amount": 1141.23,
+            "change": 4.07,
+            "absolute_value": 1187.68,
+            "absolute_change": 46.45
+        },
+        {
+            "stock": "PepsiCo Inc",
+            "eod_ticker": "PEP.US",
+            "amount": 1549.41,
+            "change": 4.95,
+            "absolute_value": 1626.11,
+            "absolute_change": 76.7
+        },
+        {
+            "stock": "Nike Inc",
+            "eod_ticker": "NKE.US",
+            "amount": 2075.73,
+            "change": 2.34,
+            "absolute_value": 2124.3,
+            "absolute_change": 48.57
+        },
+        {
+            "stock": "Mercedes-Benz Group AG",
+            "eod_ticker": "MBG.F",
+            "amount": 2123.19,
+            "change": 0.28,
+            "absolute_value": 2129.13,
+            "absolute_change": 5.94
+        },
+        {
+            "stock": "Allianz SE VNA O.N.",
+            "eod_ticker": "ALV.XETRA",
+            "amount": 2460.71,
+            "change": 2.22,
+            "absolute_value": 2515.34,
+            "absolute_change": 54.63
+        },
+        {
+            "stock": "Volkswagen AG VZO O.N.",
+            "eod_ticker": "VOW3.XETRA",
+            "amount": 1471.36,
+            "change": 1.17,
+            "absolute_value": 1488.57,
+            "absolute_change": 17.21
+        },
+        {
+            "stock": "Deutsche Post AG",
+            "eod_ticker": "DHL.XETRA",
+            "amount": 3092.5,
+            "change": 1.85,
+            "absolute_value": 3149.71,
+            "absolute_change": 57.21
+        }
+    ]
+}
